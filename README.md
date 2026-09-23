@@ -1,1 +1,2 @@
-* This is Programming Fundamental Lab Code
+# **Programming Fundamental Lab & Practice**
+## By Napat Chantagul
